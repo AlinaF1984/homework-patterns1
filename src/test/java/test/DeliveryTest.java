@@ -77,4 +77,3 @@ public class DeliveryTest {
                 .shouldBe(visible);
 
     }
-}
