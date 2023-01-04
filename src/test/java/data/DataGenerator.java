@@ -56,3 +56,4 @@ public class DataGenerator {
         String Name;
         String Phone;
     }
+}
